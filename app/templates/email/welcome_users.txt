@@ -1,0 +1,5 @@
+Hello {{user.username}}
+Welcome to Your Blog site
+We have just seen you have signed up for our application and want to welcome you to the family. 
+
+Please Enjoy reading and writing your amazing stories

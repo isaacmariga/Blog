@@ -1,0 +1,16 @@
+<!-- <div class="card pb-4">
+
+    <div class="article-metadata">
+        {% if post.post_image_path %}
+        <img class="card-img-top" src="{{url_for('static',filename=post.post_image_path )}}" alt=""> {%endif%}
+        <a class="mr-2" href="#">{{ post.author.username }}</a>
+        <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
+        <span class="fab fa-envira mt-3"></span>
+
+    </div>
+    <h2>
+        <a class="h4 pt-4" href="/post/{{post.id}}">{{ post.title }}</a></h2>
+    <p class="p1 text-muted ">{{ post.content }}</p>
+    <span class="fas fa-arrow-right"></span>
+
+</div> -->
